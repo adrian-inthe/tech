@@ -29,3 +29,9 @@
 .logo__text--strong {
   letter-spacing: .3em;
 }
+
+.logo__subtext {
+  font-size: small;
+  letter-spacing: .25em;
+  margin: 10px;
+}
