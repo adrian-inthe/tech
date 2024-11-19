@@ -6,13 +6,13 @@
   url(https://fonts.cdnfonts.com/s/17843/Gravity-UltraLight.woff) format('woff')
 }
 
-/*@font-face {*/
-/*  font-family: gravity;*/
-/*  font-style: normal;*/
-/*  font-weight: 300;*/
-/*  src: local('Gravity-Light'),*/
-/*  url(https://fonts.cdnfonts.com/s/17843/Gravity-Light.woff) format('woff')*/
-/*}*/
+@font-face {
+  font-family: gravity;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Gravity-Light'),
+  url(https://fonts.cdnfonts.com/s/17843/Gravity-Light.woff) format('woff')
+}
 
 @font-face {
   font-family: gravity;

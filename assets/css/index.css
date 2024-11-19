@@ -1,9 +1,13 @@
 :root {
   --pico-font-family: 'Gravity';
-  --pico-font-weight: 350;
+  --pico-font-weight: 300;
   --pico-font-size: 15px;
   --pico-border-radius: 10px;
   --pico-ins-color: #008fbb !important;
+}
+
+strong {
+  font-weight: 350;
 }
 
 h2 {
